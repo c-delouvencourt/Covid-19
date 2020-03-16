@@ -1,5 +1,5 @@
 module.exports = `<?xml version="1.0" encoding="UTF-8"?>
-<svg width="378px" height="344px" viewBox="0 0 578 544" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="100%" height="544px" viewBox="0 0 578 544" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="par-commune">
             <g id="legende">
