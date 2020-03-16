@@ -139,7 +139,7 @@ export default class App extends Component {
                 <div className="columns">
                     <div className="column is-6 is-12-mobile">
                         <h5 className="title is-5 has-text-white" style={{marginBottom: 50}}>Evolution des cas de
-                            CoVid-19 <span className="tag is-danger" style={{marginLeft: 20}}>EN DIRECT</span></h5>
+                            Covid-19 <span className="tag is-danger" style={{marginLeft: 20}}>EN DIRECT</span></h5>
                         <France departements={this.state.dptsTouches}/>
                     </div>
                     <div className="column is-6 is-12-mobile">

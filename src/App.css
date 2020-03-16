@@ -59,3 +59,7 @@ body {
     transform: translate(24px, 0);
   }
 }
+
+.injected-svg{
+  width: 100%;
+}
